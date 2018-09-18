@@ -1,3 +1,5 @@
+This is a fork of version 6.2.0 with pre-build files checked in
+
 # jsx-dom
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![build status](https://travis-ci.org/glixlur/jsx-dom.svg?branch=master)](https://travis-ci.org/glixlur/jsx-dom)
